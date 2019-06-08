@@ -1,0 +1,14 @@
+Package: rcpptest
+Type: Package
+Title: Test stop function
+Version: 0.1.0
+Author: RPL
+Maintainer: RPL <rplzzz@gmail.com>
+Description: Test stop function on Travis
+License: GPL
+Encoding: UTF-8
+LazyData: true
+LinkingTo: Rcpp
+Imports: Rcpp
+RoxygenNote: 6.1.1
+Suggests: testthat
